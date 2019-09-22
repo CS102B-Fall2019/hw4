@@ -1,8 +1,7 @@
-## Question 2
+## Question 5
 
-Write a program that accepts a character using getchar and converts the character to its ascii decimal equivalent. Also convert this character to its octal and hexidecimal equivalent. 
+(K&R Exercise 2-4) Write an alternate version of squeeze(s1, s2) that deletes each character in s1 that matches any character in the string s2. Also, write a main function that calls the function with 3 different examples.
 
 Compile Steps:
-
 
 Output:

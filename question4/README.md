@@ -1,6 +1,7 @@
-## Question 4
-(K&R Exercise 2-3) Write the function htoi(s), which converts a string of hexadecimal digits (including an optional 0x or 0X) into its equivalent integer value. The allowable digits are 0 through 9, a through f, and A through F. Also, write a main function that calls the function with 3 different examples.
+## Question 7
 
-Compile Steps: 
+(K&R Exercise 3-5) Write the function itob(n,s,b) that converts the integer n into a base b character representation in the string s. In particular, itob(n,s,16) formats n as a hexadecimal integer in s. Also, write a main function that calls the function with 3 different examples.
+
+Compile Steps:
 
 Output:

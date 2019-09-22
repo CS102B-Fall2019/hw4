@@ -1,6 +1,6 @@
-## Question 5
+## Question 8
 
-(K&R Exercise 2-4) Write an alternate version of squeeze(s1, s2) that deletes each character in s1 that matches any character in the string s2. Also, write a main function that calls the function with 3 different examples.
+Write a version of itoa that accepts three arguments instead of two. The third argument is a minimum field width; the converted number must be padded with blanks on the left if necessary to make if wide enough. Also, write a main function that calls the function with 3 different examples.
 
 Compile Steps:
 

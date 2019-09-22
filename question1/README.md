@@ -1,12 +1,6 @@
-## Question 1
+## Question 4
+(K&R Exercise 2-3) Write the function htoi(s), which converts a string of hexadecimal digits (including an optional 0x or 0X) into its equivalent integer value. The allowable digits are 0 through 9, a through f, and A through F. Also, write a main function that calls the function with 3 different examples.
 
-Write a program that mimics rock-paper-scissors. The input should be a single letter: "r", "p", or "s" representing "rock", "paper", and "scissors", respectively. Print out the computer's choice. Also, print out the result as "You win!", "You lose.", and "Tie." depending on the result of the game. 
-
-If the user enters an invalid letter, print out "Invalid choice."
-
-You may hard code a computer choice or if you want a challenge, look into using the rand() function or a random number generator function.
-
-Compile Steps:
-
+Compile Steps: 
 
 Output:
